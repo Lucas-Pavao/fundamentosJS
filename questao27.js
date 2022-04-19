@@ -1,0 +1,4 @@
+function qualOmaior(alturaAtual, taxaDeCrescimento) {
+
+
+}
