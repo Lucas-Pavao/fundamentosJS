@@ -1,5 +1,6 @@
-function elevada(base, expoente) {
-  let resultado = base ** expoente;
-  return resultado;
+function calculaSalario(horasTrabalhas, valorHora) {
+
+    console.log("Salário igual a R$ " + (horasTrabalhas * valorHora).toFixed(2))
 }
-console.log(elevada(5, 2));
+
+calculaSalario(150, 40.5)
